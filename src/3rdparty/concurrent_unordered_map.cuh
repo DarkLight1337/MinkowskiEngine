@@ -28,6 +28,8 @@
 #include <thrust/pair.h>
 #include <thrust/count.h>
 
+#include <thrust/execution_policy.h>
+
 #include <functional>
 #include <memory>
 #include <cassert>
